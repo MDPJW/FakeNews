@@ -3,6 +3,7 @@
  * 데이터 관리방법
    - SNU FactCheck와 제휴한 30개의 언론사가 평균 주 1회 1건이상의 팩트체크 기사를 생산 
    - 팩트체크기사는 제휴언론사가 게시, 팩트체크기사 및 콘텐츠 모니터링은 SNU FactCheck센터에서 관리 및 모니터링
+   ![언론사](https://github.com/MDPJW/FakeNews/blob/master/image/fourthestate.png)
    
  * 팩트체크 방법
    - 언론사가 팩트체크하고자하는 검증내용을 FactCheck 사이트에 업로드
