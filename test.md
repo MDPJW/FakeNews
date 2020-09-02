@@ -3,12 +3,13 @@
  * 데이터 관리방법
    - SNU FactCheck와 제휴한 30개의 언론사가 평균 주 1회 1건이상의 팩트체크 기사를 생산 
    - 팩트체크기사는 제휴언론사가 게시, 팩트체크기사 및 콘텐츠 모니터링은 SNU FactCheck센터에서 관리 및 모니터링
-   ![언론사](https://github.com/MDPJW/FakeNews/blob/master/image/fourthestate.png)
+   ![언론사](https://github.com/MDPJW/FakeNews/blob/master/image/fourthestate.png)   
    
  * 팩트체크 방법
    - 언론사가 팩트체크하고자하는 검증내용을 FactCheck 사이트에 업로드
    - 팩트체크 내용에 대한 하나의 뱃지가 생성 됨(6가지). 처음은 '판단유보'
-    ![팩트체크과정](https://factcheck.snu.ac.kr/assets/modified-480365d65c74067de743a36e327294adfe9521fecc52b4b5e3888bfa7daae342.png)
+    ![팩트체크과정](https://factcheck.snu.ac.kr/assets/modified-480365d65c74067de743a36e327294adfe9521fecc52b4b5e3888bfa7daae342.png)   
+    
    - SNU 팩트체크원칙 7가지에 의거하여 제휴언론사(국내 30개 신문·방송·통신·온라인 언론사)가 주요한 공적 사안에 대한 사실 검증을 수행후 결과물을 게시
      * SNU 팩트체크 원칙 7가지
       1. 팩트체크는 불편부당성과 비 당파성을 견지해야 한다.   
