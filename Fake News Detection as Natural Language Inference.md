@@ -1,22 +1,19 @@
  ## Fake News Detection as Natural Language Inference
  
   * 논문 저자 정보 (이름, 소속)
-  - Kai-Chou Yang, National ChengKungUniversity Taiwan 2019.7
+    - Kai-Chou Yang, National ChengKungUniversity Taiwan 2019.7
   
-  * 논문에서 가짜뉴스를 검출하려는 뉴스 종류    
-   - X
+  * 논문에서 가짜뉴스를 검출하려는 뉴스 종류 : X 
+  * 논문에서 정의하고 있는 가짜뉴스: 무엇을 가짜뉴스라 규정하고 있는지 정리 : X
   
-  * 논문에서 정의하고 있는 가짜뉴스: 무엇을 가짜뉴스라 규정하고 있는지 정리    
-   - X
- 
  * 논문에서 학습에 사용되는 데이터   
- - 중국의 Tencent 사의 웹포털사이트의 데이터 
- - 중국의 Character World
+   - 중국의 Tencent 사의 웹포털사이트의 데이터 
+   - 중국의 Character World
   
  * 데이터의 양 및 취득 방법(또는 경로)
- - 웹포털 사이트 크롤링(예상)
- * 데이터 전처리 방법
- 1.임베딩
+   - 웹포털 사이트 크롤링(예상)
+ * 데이터 전처리 방법   
+   1. 임베딩
   - 중국의 다양한 말뭉치 및 단어들을 Skip-gram Model,CBOW Model, FastText Model에 사전훈련시킴
  2. Firtst Level NLI Models
   - RNN, CNN, ESIM, Gated CNN, Decomposable Attention 사용하여 단어들의 특징점과 다른 레벨을 비교분석하며 반복작업을 하고 훈련
